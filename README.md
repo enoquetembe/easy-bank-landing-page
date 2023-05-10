@@ -1,2 +1,10 @@
-# easy-bank-landing-page
-This is a challenge from Front-end Mentor that will provide a nice test for your layout skills. 
+# Easy Bank Landing Page
+
+## About
+This is a challenge from Front-end Mentor that will provide ypu a nice test for your layout solve. 
+<br> 
+I decided to start this project with friends so that we can learn more about how to contribute to the open source project and we see this as a great opportunity to test, practice and improve our ability to work as a team.
+## Table of Contents
+
+- [Project Structure](./docs/project-structure.md)
+- [Contributing Guidelines](./docs/CONTRIBUTING.md)
