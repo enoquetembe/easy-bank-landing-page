@@ -19,14 +19,14 @@ The `src/` directory contains the folders and files that make up the application
 
 ## Assets
 
-The ``src/assets/` directory contains any assets (e.g. images, fonts) used in the application. These assets can be accessed directly by the browser. For example:
+The `src/assets/` directory contains any assets (e.g. images, fonts) used in the application. These assets can be accessed directly by the browser. For example:
 
 - `src/assets/logo.png`: the logo image used in the application
 - `src/assets/fonts/OpenSans-Regular.ttf`: the Open Sans font used in the application.
 
 
 ## Styles
-The `src/styles` contains all CSS application files to sytle the application Each part must be in a diffent CSS file and must be imported in the CSS index file. For example:
+The `src/styles` contains all CSS application files to sytle the application. We are not using any frameworks or libraries to style our application. Each part must be in a diffent CSS file and must be imported in the CSS index file. For example:
 
 - The `src/styles/global.css`: The file contains the global CSS styles and utilities used in the application. We are not using any framework to style the application.
 

@@ -1,4 +1,10 @@
-# Easy Bank Landing Page
+<div aligin="center"> 
+
+  # Easy Bank Landing Page
+
+  <img src="./github/capa.png">
+</div>
+
 
 ## About
 This is a challenge from Front-end Mentor that will provide ypu a nice test for your layout solve. 
@@ -9,3 +15,7 @@ I decided to start this project with friends so that we can learn more about how
 - [Project Structure](./docs/project-structure.md)
 - [Style Guide](./docs/style-guide.md)
 - [Contributing Guidelines](./docs/CONTRIBUTING.md)
+
+## Layout
+
+You can view the project layout through [this Link](https://www.figma.com/community/file/1238393827801856905/Easybank-landing-page). It's necessary to have [Figma](https://www.figma.com/) account to acess it.
