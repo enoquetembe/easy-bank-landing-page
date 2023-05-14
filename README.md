@@ -17,6 +17,16 @@ This is a challenge from Front-end Mentor that will provide ypu a nice test for 
 <br> 
 I decided to start this project with friends so that we can learn more about how to contribute to open source projects and we see this as a great opportunity to test, practice and improve our ability to work as a team.
 
+## Features
+
+- [ ] Header
+- [ ] Hero Section
+- [ ] Why Choose Section
+- [ ] Last Articles Section
+- [ ] Footer
+- [ ] Responsiveness
+
+
 ## Layout
 
 You can view the project layout through [this Link](https://www.figma.com/community/file/1238393827801856905/Easybank-landing-page). It's necessary to have [Figma](https://www.figma.com/) account to acess it.
