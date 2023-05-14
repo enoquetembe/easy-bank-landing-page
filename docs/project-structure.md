@@ -1,4 +1,3 @@
-# Project Structure
 
 The following document is an overview of the main directories and files in the project:
 

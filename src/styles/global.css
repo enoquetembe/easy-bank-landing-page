@@ -18,4 +18,13 @@
   font-size: 62.5%;
 }
 
+body {
+  font-size: 1.8rem;
+}
+
+input, button {
+  border: none;
+  background-color: transparent;
+}
+
 
