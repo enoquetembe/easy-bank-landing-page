@@ -36,9 +36,9 @@ The `src/styles` contains all CSS application files to sytle the application. We
 
 - The `src/styles/index.css`: The main CSS file.
 
-- The `src/styles/header`: The file contains CSS to style the header of the application.
+- The `src/styles/header.css`: The file contains CSS to style the header of the application.
 
-- The `src/styles/header`: The file contains CSS to style the footer of the application.
+- The `src/styles/footer.css`: The file contains CSS to style the footer of the application.
 
 And so on.
 
