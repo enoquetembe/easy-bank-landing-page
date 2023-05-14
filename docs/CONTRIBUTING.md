@@ -7,15 +7,15 @@ To get started with contributing to our project, please follow these steps:
 
 1. Fork the repository.
 1. Clone the repository locally.
-2. Create a new branch based on develop branch for your changes. The branch name should start with one of the following prefixes, depending on the type of changes you are making:
+2. Create a new branch for your changes. The branch name should start with one of the following prefixes, depending on the type of changes you are making:
     - <strong>feat/</strong> for new features
     - <strong>fix/</strong> for bug fixes
     - <strong>docs/</strong> for documentation changes
     - <strong>style/</strong> for changes that do not affect the meaning of the code (e.g. formatting)
     - <strong>refactor/</strong> for code changes that neither fix a bug nor add a feature
 4. Make your changes and commit them using Conventional Commits.
-5. Push your changes to the main repository.
-6. Create a pull request to merge your changes into the develop branch.
+5. Push your changes to your feature branch.
+6. Create a pull request.
 
 ## Conventional Commits
 We use Conventional Commits to standardize our commit messages. Please follow the guidelines below when making your commits:

@@ -2,11 +2,16 @@
 
 The following document is an overview of the main directories and files in the project:
 
+- `public/`: contains the public assets for the application
 - `src/`: contains the all files for the application
 - `src/styles`: contains all CSS application files to sytle the application
 - `src/script`: contains all JavaScript application files
 - `src/assets`: contains the  assets (e.g. images, fonts) used in the application.
 - `README.md`: contains the project overview and setup instructions.
+
+## Public
+
+The `public/` directory contains public asses used in the application (favicon.ico):
 
 ## Src
 
