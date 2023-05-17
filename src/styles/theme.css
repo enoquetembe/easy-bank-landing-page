@@ -9,5 +9,7 @@
   --very-light-gray: hsl(0, 0%, 98%);
   --white: hsl(0, 0%, 100%);
 
+  --linear-button: linear-gradient(90deg, #31D35C 0%, #2BB7DB 100%);
+  
   font-size: 62.5%;
 }

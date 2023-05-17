@@ -1,0 +1,52 @@
+@import url(./theme.css);
+
+header
+{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.nav
+{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-links ul
+{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    align-items: center;
+}
+
+.header-links ul li
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.header-links ul li a
+{
+    
+    text-decoration: none;
+    color: #9698A6;
+}
+
+.button{
+    width: 163px;
+    height: 45px;
+    background: var(--linear-button);    
+    display: flex;
+    border-radius: 50px;
+    flex-direction: row;
+    justify-content: center;    
+}
+.button button
+{
+    /* font-family: ; */
+    color: #ffffff;
+}
