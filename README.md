@@ -19,8 +19,8 @@ I decided to start this project with friends so that we can learn more about how
 
 ## Features
 
-- [ ] Header
-- [ ] Hero Section
+- [x] Header
+- [x] Hero Section
 - [ ] Why Choose Section
 - [ ] Last Articles Section
 - [ ] Footer
