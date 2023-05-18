@@ -1,52 +1,48 @@
-@import url(./theme.css);
-
-header
-{
-    width: 80%;
-    margin: 0 auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-.nav
-{
-    width: 100%;
+header {
+    background-color: var(--white);
+    padding: 5px 50px;
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    position: absolute;
+    z-index: 2;
+    width: 100vw;
 }
 
-.header-links ul
-{
-    display: flex;
-    flex-wrap: wrap;
-    list-style-type: none;
-    align-items: center;
+.navigation li{
+    display: inline-block;
 }
 
-.header-links ul li
-{
-    margin-left: 10px;
-    margin-right: 10px;
-}
-.header-links ul li a
-{
-    
-    text-decoration: none;
-    color: #9698A6;
+.navigation li a {
+    position: relative;
+    margin-left: 20px;
+    color: var(---grayish-blue);
 }
 
-.button{
-    width: 163px;
-    height: 45px;
-    background: var(--linear-button);    
-    display: flex;
-    border-radius: 50px;
-    flex-direction: row;
-    justify-content: center;    
+.navigation li a::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -35px;
+    width: 0;
+    height: 4px;
+    background: var(--grayish-blue);
+    transition: all .5s;
 }
-.button button
-{
-    /* font-family: ; */
-    color: #ffffff;
+
+.navigation li a:hover::after {
+    width: 100%;
+}
+
+.dropdown-toggle {
+    display: none;
+    outline: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+span, p {
+    color: var(--grayish-blue);
 }
