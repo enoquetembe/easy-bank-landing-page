@@ -5,7 +5,10 @@
 }
 
 body {
-  font-size: 1.8rem;
+  position: relative;
+    overflow-x:hidden ;
+    width: 100vw;
+    font-family: 'Public Sans', sans-serif;
 }
 
 input, button {
@@ -14,3 +17,6 @@ input, button {
 }
 
 
+a {
+  text-decoration: none;
+}
