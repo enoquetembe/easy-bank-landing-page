@@ -1,0 +1,25 @@
+footer{
+    background-color: hsl(233, 26%, 24%);
+    color: #fff;
+    height: 265px;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-cont-element{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-link ul{
+    list-style: none;
+    padding: 20px;
+}
+
+.footer-link a{
+    color: var(--white);
+}
