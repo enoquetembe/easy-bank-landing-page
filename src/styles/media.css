@@ -1,4 +1,12 @@
+@media screen and (max-width: 500px){
+    .article-item{
+        grid-column: span 4 !important;
+    }
+}
+
+
 @media screen and (max-width: 765px){
+
   header {
       padding: 30px 40px;
   }
@@ -90,6 +98,11 @@
   
 }
 
+@media screen and (max-width: 820px) {
+    .article-item{
+        grid-column: span 2;
+    }
+}
 
 @media screen and (min-width:820px){
   header {
@@ -127,3 +140,7 @@
 
   
 } 
+
+@media screen and (max-width:992px) {
+
+}
